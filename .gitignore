@@ -3,3 +3,13 @@
 ################################################################################
 
 /GFYCat/bin
+/GFYCat/obj
+/GFYCat_Tests/bin
+/GFYCat_Tests/obj/Debug
+/GFYCat_Tests/obj/Release
+/GFYCatSharp/obj
+/GFYCatSharp/packages/Newtonsoft.Json.10.0.3
+/GFYCatSharp/.vs/GfyCatSharp/v14
+/GFYCatSharp_Tests/bin
+/GFYCatSharp_Tests/obj
+/GFYCatSharp/bin
